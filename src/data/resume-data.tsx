@@ -2,6 +2,7 @@ import {
   NeomoveLogo,
   HeinekenLogo,
   Ck12Logo,
+  NTTDataLogo,
   SchneiderLogo,
   } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
@@ -64,7 +65,7 @@ export const RESUME_DATA = {
       link: "https://www.nttdata.com/",
       badges: ["Remote"],
       title: "Data Scientist → Lead Engineer",
-      logo: ClevertechLogo,
+      logo: NTTDataLogo,
       start: "2020",
       end: "2022",
       description:
